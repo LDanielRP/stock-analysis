@@ -26,4 +26,6 @@ This project uses historical stock data to perform technical analysis with indic
    pip install -r requirements.txt
 
 2. Run:
+    ```bash
     jupyter notebook
+    
